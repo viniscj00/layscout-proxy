@@ -1,0 +1,12 @@
+{
+  "name": "layscout-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para LayScout — FootyStats API",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
